@@ -15,27 +15,13 @@ site:
       uri: /books/java/index.html
     - title: Python教程
       uri: /books/python/index.html
-    - title: JavaScript教程
-      uri: /books/javascript/index.html
-    - title: SQL教程
-      uri: /books/sql/index.html
-    - title: 手写Spring
-      uri: /books/summerframework/index.html
-    - title: 手写Tomcat
-      uri: /books/jerrymouse/index.html
-    - title: 区块链教程
-      uri: /books/blockchain/index.html
-    - title: Git教程
-      uri: /books/git/index.html
-    - title: Makefile教程
-      uri: /books/makefile/index.html
     - title: 博客
       uri: /blogs/all/index.html
   git:
     base-url: https://github.com/youkechaung/liaoxuefeng.com/blob/main/source
   contact:
-    name: Michael Liao
-    github: https://github.com/youkechaung/liaoxuefeng.com
+    name: George You
+    github: https://github.com/youkechaung/youkechuang.cn
     twitter: https://twitter.com/GeorgeYoukc
   books:
     index-marker: true
@@ -59,9 +45,9 @@ site:
       id: "2efddd14a5f2b304677462d06fb4f964"
   footer: |
           <div>
-            &copy;<a href="/">liaoxuefeng.com</a> 
+            &copy;<a href="/">youkechuang.cn</a> 
             - <a href="https://weibo.com/youkc" target="_blank">微博</a>
-            - <a href="https://github.com/youkechaung/liaoxuefeng.com" target="_blank">GitHub</a>
+            - <a href="https://github.com/youkechaung/youkechuang.cn" target="_blank">GitHub</a>
             - <a href="/pages/license/index.html" target="_blank">License</a>
           </div>
 

@@ -32,7 +32,7 @@
         </a>
     </div>
     <!-- javascript -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/javascript/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/javascript.jpg" />
@@ -44,9 +44,9 @@
                 迈向全栈工程师之路的JavaScript教程！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- sql -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/sql/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/sql.jpg" />
@@ -58,9 +58,9 @@
                 小白的零基础SQL教程，可以在线跑SQL！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- summerframework -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/summerframework/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/summerframework.jpg" />
@@ -72,9 +72,9 @@
                 自己动手，从零开发一个迷你版的Spring框架！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- jerrymouse -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/jerrymouse/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/jerrymouse.jpg" />
@@ -86,9 +86,9 @@
                 自己动手，从零开发一个迷你版的Tomcat服务器！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- blockchain -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/blockchain/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/blockchain.jpg" />
@@ -100,9 +100,9 @@
                 零基础入门区块链，还可以在线写代码！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- git -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/git/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/git.jpg" />
@@ -114,9 +114,9 @@
                 最适合小白入门的浅显易懂的Git教程！
             </div>
         </a>
-    </div>
+    </div> -->
     <!-- makefile -->
-    <div class="home-book-list-item">
+    <!-- <div class="home-book-list-item">
         <a href="/books/makefile/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/makefile.jpg" />
@@ -128,7 +128,7 @@
                 入门Linux开发，从零开始编写Makefile！
             </div>
         </a>
-    </div>
+    </div> -->
 </div>
 
 <h4>最新发表的博客文章：</h4>
