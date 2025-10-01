@@ -227,7 +227,7 @@ public void testAssetService() {
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/michaelliao/simple-assets)下载本文源码。
+可以从[GitHub](https://github.com/youkechaung/simple-assets)下载本文源码。
 
 ### 小结
 

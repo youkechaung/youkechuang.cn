@@ -136,4 +136,4 @@ Node {
 
 这样对于叶子节点来说，只需要很少几次查找就能定位。
 
-完整的SMT实现参考源码可以从[GitHub](https://github.com/michaelliao/eth-smt)下载。
+完整的SMT实现参考源码可以从[GitHub](https://github.com/youkechaung/eth-smt)下载。

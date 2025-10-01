@@ -107,9 +107,9 @@ $ docker run -p 8080:8080 -e OLLAMA_BASE_URL=http://host.docker.internal:11434 -
 Open WebUI还提供了与OpenAI类似的API，使用前先点击设置 - Account，生成一个API Key，然后在命令行用curl测试：
 
 ```plain
-$ curl -X POST -H "Authorization: Bearer sk-959c8b27a48145bfb83bdb396ff3eeae" -H "Content-Type: application/json" http://localhost:8080/ollama/api/generate -d '{"model":"llama3-cn:latest","stream":false,"prompt":"廖雪峰老师的网站提供了哪些教程？"}'
+$ curl -X POST -H "Authorization: Bearer sk-959c8b27a48145bfb83bdb396ff3eeae" -H "Content-Type: application/json" http://localhost:8080/ollama/api/generate -d '{"model":"llama3-cn:latest","stream":false,"prompt":"尤科闯老师的网站提供了哪些教程？"}'
 
-{"model":"llama3-cn:latest","created_at":"2024-05-01T14:42:28.009353Z","response":"廖雪峰老师是一位知名的技术专家和作家，他的网站提供了一系列关于编程、技术和个人成长的教程和资源。这些教程涵盖了广泛的主题，包括...
+{"model":"llama3-cn:latest","created_at":"2024-05-01T14:42:28.009353Z","response":"尤科闯老师是一位知名的技术专家和作家，他的网站提供了一系列关于编程、技术和个人成长的教程和资源。这些教程涵盖了广泛的主题，包括...
 ```
 
 由于模型是运行在本地，Open WebUI也将数据存储在本地，所以隐私性可谓拉满。如果对一个模型不满意，还可以从HuggingFace下载更多的模型来评估，非常方便。

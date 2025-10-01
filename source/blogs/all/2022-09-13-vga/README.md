@@ -163,4 +163,4 @@ https://www.bilibili.com/video/BV1ma411g7w3
 
 我们可以把RAM的写入接口暴露出来，这样外部程序可以修改RAM的内容，就会自动把更新后的字符显示出来。RAM相当于显存，ROM相当于字库，这样我们就成功实现了一个VGA显卡！👌
 
-可以从[GitHub](https://github.com/michaelliao/learn-verilog/tree/master/vga_display)下载源码。
+可以从[GitHub](https://github.com/youkechaung/learn-verilog/tree/master/vga_display)下载源码。

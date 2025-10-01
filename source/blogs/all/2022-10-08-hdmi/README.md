@@ -73,6 +73,6 @@ TMDS编码规则比较简单，但流程比较繁琐，因此，我们直接从�
 https://www.bilibili.com/video/BV1NN4y1A7cy
 ```
 
-可以从[GitHub](https://github.com/michaelliao/learn-verilog/tree/master/hdmi_display)下载源码。
+可以从[GitHub](https://github.com/youkechaung/learn-verilog/tree/master/hdmi_display)下载源码。
 
 参考：[野火HDMI显示器驱动设计与验证](https://doc.embedfire.com/fpga/altera/ep4ce10_pro/zh/latest/code/hdmi.html)

@@ -74,9 +74,9 @@ cc -o ./build/world.out ./build/hello.o ./build/main.o
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/michaelliao/makefile-tutorial/tree/main/v7)下载源码。
+可以从[GitHub](https://github.com/youkechaung/makefile-tutorial/tree/main/v7)下载源码。
 
-<a class="git-explorer" href="https://github.com/michaelliao/makefile-tutorial/tree/main/v7">GitHub</a>
+<a class="git-explorer" href="https://github.com/youkechaung/makefile-tutorial/tree/main/v7">GitHub</a>
 
 ### 小结
 

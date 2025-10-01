@@ -32,7 +32,7 @@ Expires: Sun, 1 Jan 2006 01:00:00 GMT
 Pragma: no-cache
 Cache-Control: must-revalidate, no-cache, private
 X-DAE-Node: pidl1
-Data: {"rating":{"max":10,"numRaters":16,"average":"7.4","min":0},"subtitle":"","author":["廖雪峰编著"],"pubdate":"2007-6",...}
+Data: {"rating":{"max":10,"numRaters":16,"average":"7.4","min":0},"subtitle":"","author":["尤科闯编著"],"pubdate":"2007-6",...}
 ```
 
 如果我们要想模拟浏览器发送GET请求，就需要使用`Request`对象，通过往`Request`对象添加HTTP头，我们就可以把请求伪装成浏览器。例如，模拟iPhone去请求豆瓣首页：

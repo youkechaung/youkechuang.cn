@@ -391,6 +391,6 @@ AI程序则不同，它只经过几层计算，复杂的大模型也就100来层
 
 ### 源码下载
 
-本文源码可通过[GitHub](https://github.com/michaelliao/mnist)下载：
+本文源码可通过[GitHub](https://github.com/youkechaung/mnist)下载：
 
-<a class="git-explorer" href="https://github.com/michaelliao/mnist/tree/master">mnist</a>
+<a class="git-explorer" href="https://github.com/youkechaung/mnist/tree/master">mnist</a>

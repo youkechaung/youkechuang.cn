@@ -271,4 +271,4 @@ public class JsonReader {
 }
 ```
 
-详细源码请参考：[https://github.com/michaelliao/jsonstream](https://github.com/michaelliao/jsonstream)。
+详细源码请参考：[https://github.com/youkechaung/jsonstream](https://github.com/youkechaung/jsonstream)。

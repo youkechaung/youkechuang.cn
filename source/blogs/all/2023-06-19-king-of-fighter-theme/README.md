@@ -16,4 +16,4 @@
 
 ### 源码下载
 
-最后，KoF主题完全开源，想要自己制作主题的同学可以从[GitHub](https://github.com/michaelliao/kof-chrome-theme)下载到本地，然后再做定制修改。
+最后，KoF主题完全开源，想要自己制作主题的同学可以从[GitHub](https://github.com/youkechaung/kof-chrome-theme)下载到本地，然后再做定制修改。

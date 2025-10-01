@@ -146,9 +146,9 @@ LIMIT 3
 
 ### 源码
 
-本文所有源码均可通过[GitHub](https://github.com/michaelliao/llm-embedding-sample)下载：
+本文所有源码均可通过[GitHub](https://github.com/youkechaung/llm-embedding-sample)下载：
 
-<a class="git-explorer" href="https://github.com/michaelliao/llm-embedding-sample/tree/master">GitHub</a>
+<a class="git-explorer" href="https://github.com/youkechaung/llm-embedding-sample/tree/master">GitHub</a>
 
 ### 参考
 

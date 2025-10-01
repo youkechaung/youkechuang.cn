@@ -267,7 +267,7 @@ public class TradingEngine {
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/michaelliao/simple-trading-engine)下载本文源码。
+可以从[GitHub](https://github.com/youkechaung/simple-trading-engine)下载本文源码。
 
 ### 小结
 

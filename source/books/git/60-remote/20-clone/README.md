@@ -36,7 +36,7 @@ https://www.bilibili.com/video/BV1d4411x7u6
 
 如果有多个人协作开发，那么每个人各自从远程克隆一份就可以了。
 
-你也许还注意到，GitHub给出的地址不止一个，还可以用`https://github.com/michaelliao/gitskills.git`这样的地址。实际上，Git支持多种协议，默认的`git://`使用`ssh`，但也可以使用`https`等其他协议。
+你也许还注意到，GitHub给出的地址不止一个，还可以用`https://github.com/youkechaung/gitskills.git`这样的地址。实际上，Git支持多种协议，默认的`git://`使用`ssh`，但也可以使用`https`等其他协议。
 
 使用`https`除了速度慢以外，还有个最大的麻烦是每次推送都必须输入口令，但是在某些只开放`http`端口的公司内部就无法使用`ssh`协议而只能用`https`。
 

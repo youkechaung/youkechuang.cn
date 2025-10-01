@@ -375,5 +375,5 @@ https://www.bilibili.com/video/BV1EWz1YaE7P/
 
 本项目的SolidWorks设计模型和控制代码完全开源，需要的同学自取：
 
-[https://github.com/michaelliao/robotic-arm](https://github.com/michaelliao/robotic-arm)
+[https://github.com/youkechaung/robotic-arm](https://github.com/youkechaung/robotic-arm)
 

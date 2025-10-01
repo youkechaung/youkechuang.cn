@@ -123,7 +123,7 @@ function open(uint256 id, uint256[] memory proof) public returns (uint256) {
 
 ### 项目源码
 
-本文红包项目完全开源，可通过[Github](https://github.com/michaelliao/red-packet-contract)访问所有源码，采用GPLv3授权，若使用此加密红包出现任何问题，作者不承担任何责任。
+本文红包项目完全开源，可通过[Github](https://github.com/youkechaung/red-packet-contract)访问所有源码，采用GPLv3授权，若使用此加密红包出现任何问题，作者不承担任何责任。
 
 最后，可以在测试网体验领取BTC红包：
 

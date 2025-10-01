@@ -561,7 +561,7 @@ async function query() {
 
 ### 参考源码
 
-<a class="git-explorer" href="https://github.com/michaelliao/web3stack/tree/master">https://github.com/michaelliao/web3stack</a>
+<a class="git-explorer" href="https://github.com/youkechaung/web3stack/tree/master">https://github.com/youkechaung/web3stack</a>
 
 ### FAQ
 

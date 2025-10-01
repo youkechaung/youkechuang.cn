@@ -28,7 +28,7 @@ SSL使用证书来创建安全连接。有两种验证模式：
 
 以上步骤命令繁琐，所以我做了一个shell脚本，能一次性把证书搞定。从这里下载脚本：
 
-[https://github.com/michaelliao/itranswarp.js/blob/master/conf/ssl/gencert.sh](https://github.com/michaelliao/itranswarp.js/blob/master/conf/ssl/gencert.sh)
+[https://github.com/youkechaung/itranswarp.js/blob/master/conf/ssl/gencert.sh](https://github.com/youkechaung/itranswarp.js/blob/master/conf/ssl/gencert.sh)
 
 运行脚本，假设你的域名是`www.test.com`，那么按照提示输入：
 

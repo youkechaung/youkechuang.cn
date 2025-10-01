@@ -14,7 +14,7 @@
 
 我们只要按照这种目录结构组织文件，它就是一个有效的Maven仓库。
 
-我们以广受好评的开源项目[how-to-become-rich](https://github.com/michaelliao/how-to-become-rich)为例，先创建Maven工程目录结构如下：
+我们以广受好评的开源项目[how-to-become-rich](https://github.com/youkechaung/how-to-become-rich)为例，先创建Maven工程目录结构如下：
 
 ```ascii
 how-to-become-rich
@@ -78,7 +78,7 @@ how-to-become-rich
 
 我们直接在项目根目录下运行Maven命令`mvn clean package deploy`，如果一切顺利，我们就可以在`maven-repo`目录下找到部署后的所有文件如下：
 
-<a class="git-explorer" href="https://github.com/michaelliao/how-to-become-rich/tree/master/maven-repo">how-to-become-rich-repo</a>
+<a class="git-explorer" href="https://github.com/youkechaung/how-to-become-rich/tree/master/maven-repo">how-to-become-rich-repo</a>
 
 最后一步，是把这个工程推到GitHub上，并选择`Settings`-`GitHub Pages`，选择`master branch`启用Pages服务：
 
@@ -318,7 +318,7 @@ System.out.println(millionaire.howToBecomeRich());
         <repository>
             <id>github-release</id>
             <name>GitHub Release</name>
-            <url>https://maven.pkg.github.com/michaelliao/complex</url>
+            <url>https://maven.pkg.github.com/youkechaung/complex</url>
         </repository>
     </distributionManagement>
 </project>
@@ -328,7 +328,7 @@ System.out.println(millionaire.howToBecomeRich());
 
 ![github-packages](github-packages.jpg)
 
-完整的配置请参考[complex](https://github.com/michaelliao/complex/)项目，这是一个非常简单的支持复数运算的库。
+完整的配置请参考[complex](https://github.com/youkechaung/complex/)项目，这是一个非常简单的支持复数运算的库。
 
 使用该Artifact时，因为GitHub的Package只能作为私有仓库使用，所以除了在使用方的`pom.xml`中声明`<repository>`外：
 
@@ -339,7 +339,7 @@ System.out.println(millionaire.howToBecomeRich());
         <repository>
             <id>github-release</id>
             <name>GitHub Release</name>
-            <url>https://maven.pkg.github.com/michaelliao/complex</url>
+            <url>https://maven.pkg.github.com/youkechaung/complex</url>
         </repository>
     </repositories>
 

@@ -34,7 +34,7 @@ Bootstrap的官方仓库`twbs/bootstrap`、你在GitHub上克隆的仓库`my/boo
 
 如果你希望bootstrap的官方库能接受你的修改，你就可以在GitHub上发起一个pull request。当然，对方是否接受你的pull request就不一定了。
 
-如果你没能力修改bootstrap，但又想要试一把pull request，那就Fork一下我的仓库：[https://github.com/michaelliao/learngit](https://github.com/michaelliao/learngit)，创建一个`your-github-id.txt`的文本文件，写点自己学习Git的心得，然后推送一个pull request给我，我会视心情而定是否接受。
+如果你没能力修改bootstrap，但又想要试一把pull request，那就Fork一下我的仓库：[https://github.com/youkechaung/learngit](https://github.com/youkechaung/learngit)，创建一个`your-github-id.txt`的文本文件，写点自己学习Git的心得，然后推送一个pull request给我，我会视心情而定是否接受。
 
 ### 小结
 

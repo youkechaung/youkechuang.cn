@@ -55,4 +55,4 @@ private static synchronized long nextId(long epochSecond) {
 
 最后，为什么采用最多53位整型，而不是64位整型？这是因为考虑到大部分应用程序是Web应用，如果要和JavaScript打交道，由于JavaScript支持的最大整型就是53位，超过这个位数，JavaScript将丢失精度。因此，使用53位整数可以直接由JavaScript读取，而超过53位时，就必须转换成字符串才能保证JavaScript处理正确，这会给API接口带来额外的复杂度。这也是为什么新浪微博的API接口会同时返回`id`和`idstr`的原因。
 
-参考源码：[IdUtil.java](https://github.com/michaelliao/itranswarp/blob/master/src/main/java/com/itranswarp/util/IdUtil.java)
+参考源码：[IdUtil.java](https://github.com/youkechaung/itranswarp/blob/master/src/main/java/com/itranswarp/util/IdUtil.java)

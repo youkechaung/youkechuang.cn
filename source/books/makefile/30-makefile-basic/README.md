@@ -273,9 +273,9 @@ ok
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/michaelliao/makefile-tutorial/tree/main/v1)下载源码。
+可以从[GitHub](https://github.com/youkechaung/makefile-tutorial/tree/main/v1)下载源码。
 
-<a class="git-explorer" href="https://github.com/michaelliao/makefile-tutorial/tree/main/v1">GitHub</a>
+<a class="git-explorer" href="https://github.com/youkechaung/makefile-tutorial/tree/main/v1">GitHub</a>
 
 ### 小结
 

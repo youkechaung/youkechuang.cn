@@ -133,4 +133,4 @@ f4fe734bd736144ec5b1bfcabe456431e4cd0eae, 10.51128224
 
 ### 小结
 
-本文给出了一种交易所用户资产的额度证明，并保证不泄漏任何用户的额度。详细代码可参考[GitHub源码](https://github.com/michaelliao/eth-smt/blob/master/sample/src/main/java/com/itranswarp/sample/Proof.java)。
+本文给出了一种交易所用户资产的额度证明，并保证不泄漏任何用户的额度。详细代码可参考[GitHub源码](https://github.com/youkechaung/eth-smt/blob/master/sample/src/main/java/com/itranswarp/sample/Proof.java)。

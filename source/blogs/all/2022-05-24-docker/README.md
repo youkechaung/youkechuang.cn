@@ -16,7 +16,7 @@
 
 ![worker-vr](worker-vr.jpg)
 
-我们通过一个简单的Python程序就可以验证一下隔离进程的特点。我们编写一个简单的HTTP服务程序[app.py](https://github.com/michaelliao/learn-docker/blob/master/simple-http-server/app.py)，针对URL为`/`、`/ps`、`/ls`分别返回自身进程ID、所有进程ID和磁盘根目录列表。
+我们通过一个简单的Python程序就可以验证一下隔离进程的特点。我们编写一个简单的HTTP服务程序[app.py](https://github.com/youkechaung/learn-docker/blob/master/simple-http-server/app.py)，针对URL为`/`、`/ps`、`/ls`分别返回自身进程ID、所有进程ID和磁盘根目录列表。
 
 如果我们正常启动这个Python程序，在浏览器中，可以看到进程ID为`10297`：
 

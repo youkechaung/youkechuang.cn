@@ -55,9 +55,9 @@ cc -o world.out hello.o main.o
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/michaelliao/makefile-tutorial/tree/main/v5)下载源码。
+可以从[GitHub](https://github.com/youkechaung/makefile-tutorial/tree/main/v5)下载源码。
 
-<a class="git-explorer" href="https://github.com/michaelliao/makefile-tutorial/tree/main/v5">GitHub</a>
+<a class="git-explorer" href="https://github.com/youkechaung/makefile-tutorial/tree/main/v5">GitHub</a>
 
 ### 小结
 

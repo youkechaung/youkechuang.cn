@@ -106,4 +106,4 @@ public class AnotherService {
 
 完整的示例工程源码请参考：
 
-[https://github.com/michaelliao/springcloud/tree/master/data-multidatasource](https://github.com/michaelliao/springcloud/tree/master/data-multidatasource)
+[https://github.com/youkechaung/springcloud/tree/master/data-multidatasource](https://github.com/youkechaung/springcloud/tree/master/data-multidatasource)
