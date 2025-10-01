@@ -1,19 +1,19 @@
 # 首页
 
-<h4>尤科闯的官方网站为您提供原创精品中文教程：</h4>
+<h4>尤科闯的官方网站：</h4>
 
 <div class="home-book-list">
     <!-- java -->
     <div class="home-book-list-item">
-        <a href="/books/java/index.html" class="home-book-list-image">
+        <a href="/books/whoami/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/java.jpg" /> 
             </div>
             <div class="home-book-list-title">
-                Java教程
+                我是谁
             </div>
             <div class="home-book-list-desc">
-                小白的零基础Java教程，零基础迈向Java架构师！
+                个人介绍
             </div>
         </a>
     </div>

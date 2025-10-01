@@ -11,8 +11,8 @@ site:
   # set cdn prefix: self hosted
   cdn-path: /static
   navigation:
-    - title: Java教程
-      uri: /books/java/index.html
+    - title: 我是谁
+      uri: /books/whoami/index.html
     - title: Python教程
       uri: /books/python/index.html
     - title: 我的1/3人生
