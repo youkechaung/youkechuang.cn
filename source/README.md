@@ -10,7 +10,7 @@
                 <img src="/static/cover/java.jpg" /> 
             </div>
             <div class="home-book-list-title">
-                我是谁
+                我的故事
             </div>
             <div class="home-book-list-desc">
                 个人介绍
