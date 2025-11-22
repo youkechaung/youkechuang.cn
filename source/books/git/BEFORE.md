@@ -21,10 +21,6 @@
             </a>
         </span>
         <br>
-<<<<<<< Updated upstream
         <span>为人类文明贡献微薄之力，此生足以</span>
-=======
-        <span>创造价值,每天进步一小步。</span>
->>>>>>> Stashed changes
     </div>
 </div>
