@@ -7,7 +7,7 @@
     <div class="home-book-list-item">
         <a href="/books/whoami/index.html" class="home-book-list-image">
             <div>
-                <img src="/static/cover/java.jpg" /> 
+                <img src="/static/cover/ykc_coffee.jpg" /> 
             </div>
             <div class="home-book-list-title">
                 我的故事
@@ -21,7 +21,7 @@
     <div class="home-book-list-item">
         <a href="/books/python/index.html" class="home-book-list-image">
             <div>
-                <img src="/static/cover/python.jpg" />
+                <img src="/static/cover/flower_sea.jpg" />
             </div>
             <div class="home-book-list-title">
                 Python教程
