@@ -40,11 +40,20 @@ site:
     # code-font: Monaco
   integration:
     comment:
-      provider: oauth
-      url: https://api.liaoxuefeng.com
+      provider: disqus
+      # 请将下面的 'your-disqus-shortname' 替换为你在 Disqus 注册的短名称
+      # 注册地址: https://disqus.com/profile/signup/
+      # 创建站点后，在设置中可以看到你的 shortname
+      name: kechuangyou
     analytics:
-      provider: baidu
-      id: "2efddd14a5f2b304677462d06fb4f964"
+      provider: goatcounter
+      # GoatCounter 站点代码
+      # 获取方式：
+      # 1. 访问 https://www.goatcounter.com/ 注册账号（免费）
+      # 2. 创建新站点，填写你的网站域名
+      # 3. 复制站点代码（site code），格式类似：your-site-name
+      # 4. 将下面的 'your-site-code' 替换为你的实际站点代码
+      code: kechuangyou
   footer: |
           <div>
             &copy;<a href="/">youkechuang.cn</a> 

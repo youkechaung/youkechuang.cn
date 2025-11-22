@@ -21,6 +21,6 @@
             </a>
         </span>
         <br>
-        <span>资深算法工程师，望京POLO哥。</span>
+        <span>为人类文明贡献微薄之力，此生足以</span>
     </div>
 </div>
