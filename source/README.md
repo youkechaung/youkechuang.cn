@@ -13,7 +13,7 @@
                 我的故事
             </div>
             <div class="home-book-list-desc">
-                个人介绍
+                    个人介绍,我的人生经历
             </div>
         </a>
     </div>
