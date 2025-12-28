@@ -88,6 +88,6 @@ public class ContextLoaderInitializer implements ServletContainerInitializer {
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/youkechaung/summer-framework/tree/main/framework/summer-boot)或[Gitee](https://gitee.com/liaoxuefeng/summer-framework/tree/main/framework/summer-boot)下载源码。
+可以从[GitHub](https://github.com/youkechaung/summer-framework/tree/main/framework/summer-boot)或[Gitee](https://gitee.com/youkechuang/summer-framework/tree/main/framework/summer-boot)下载源码。
 
 <a class="git-explorer" href="https://github.com/youkechaung/summer-framework/tree/main/framework/summer-boot">GitHub</a>

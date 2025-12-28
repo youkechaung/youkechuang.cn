@@ -29,4 +29,4 @@ Jerrymouse Server设计目标如下：
 
 我们会一步一步实现一个完整的Web Server，并在此基础上部署一个完整的Web应用程序。
 
-本教程的所有源码均可从[GitHub](https://github.com/youkechaung/jerrymouse)或[Gitee](https://gitee.com/liaoxuefeng/jerrymouse)下载。
+本教程的所有源码均可从[GitHub](https://github.com/youkechaung/jerrymouse)或[Gitee](https://gitee.com/youkechuang/jerrymouse)下载。

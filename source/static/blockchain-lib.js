@@ -1752,7 +1752,7 @@ module.exports={
   "_args": [
     [
       "bigi@1.4.2",
-      "/Users/liaoxuefeng/Git/Github/blockchain/blockchain-lib"
+      "/Users/youkechuang/Git/Github/blockchain/blockchain-lib"
     ]
   ],
   "_from": "bigi@1.4.2",
@@ -1778,7 +1778,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npm.taobao.org/bigi/download/bigi-1.4.2.tgz",
   "_spec": "1.4.2",
-  "_where": "/Users/liaoxuefeng/Git/Github/blockchain/blockchain-lib",
+  "_where": "/Users/youkechuang/Git/Github/blockchain/blockchain-lib",
   "bugs": {
     "url": "https://github.com/cryptocoinjs/bigi/issues"
   },
@@ -31305,7 +31305,7 @@ module.exports={
   "_args": [
     [
       "elliptic@6.5.3",
-      "/Users/liaoxuefeng/Git/Github/blockchain/blockchain-lib"
+      "/Users/youkechuang/Git/Github/blockchain/blockchain-lib"
     ]
   ],
   "_from": "elliptic@6.5.3",
@@ -31330,7 +31330,7 @@ module.exports={
   ],
   "_resolved": "https://registry.npm.taobao.org/elliptic/download/elliptic-6.5.3.tgz?cache=0&sync_timestamp=1592492844326&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felliptic%2Fdownload%2Felliptic-6.5.3.tgz",
   "_spec": "6.5.3",
-  "_where": "/Users/liaoxuefeng/Git/Github/blockchain/blockchain-lib",
+  "_where": "/Users/youkechuang/Git/Github/blockchain/blockchain-lib",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"

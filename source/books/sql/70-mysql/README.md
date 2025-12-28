@@ -11,7 +11,7 @@
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> mysql -u root -p                │
+│PS C:\Users\youkechuang> mysql -u root -p                │
 │Enter password: ******                                   │
 │                                                         │
 │Server version: 5.7                                      │

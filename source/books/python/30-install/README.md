@@ -55,7 +55,7 @@ Python在Linux/macOS的命令是`python3`，在Windows下的命令是`python`，
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python                          │
+│PS C:\Users\youkechuang> python                          │
 │Python 3.13 ...                                          │
 │Type "help", "copyright", "credits" or "license" for ... │
 │>>> _                                                    │
@@ -76,7 +76,7 @@ Python在Linux/macOS的命令是`python3`，在Windows下的命令是`python`，
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python                          │
+│PS C:\Users\youkechuang> python                          │
 │python : The term 'python' is not recognized as ...      │
 │...                                                      │
 │    + FullyQualifiedErrorId : CommandNotFoundException   │

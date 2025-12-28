@@ -144,6 +144,6 @@ public class SimpleHttpServer implements HttpHandler, AutoCloseable {
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/simple-http-server)或[Gitee](https://gitee.com/liaoxuefeng/jerrymouse/tree/main/step-by-step/simple-http-server)下载源码。
+可以从[GitHub](https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/simple-http-server)或[Gitee](https://gitee.com/youkechuang/jerrymouse/tree/main/step-by-step/simple-http-server)下载源码。
 
 <a class="git-explorer" href="https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/simple-http-server">GitHub</a>

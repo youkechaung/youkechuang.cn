@@ -65,7 +65,7 @@ $ docker pull mysql
 拉取完成后，输入以下命令直接启动MySQL服务器：
 
 ```plain
-$ docker run -d --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -v /Users/liaoxuefeng/mysql-data:/var/lib/mysql mysql
+$ docker run -d --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -v /Users/youkechuang/mysql-data:/var/lib/mysql mysql
 ```
 
 命令`docker run`表示启动一个容器，后面各参数含义如下：
@@ -74,7 +74,7 @@ $ docker run -d --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=password -v /Us
 - `--name mysql`：表示容器的名字，不输入Docker会自动选择一个名字；
 - `-p 3306:3306`：表示把容器的端口3306映射到本机，这样可以在本机通过3306端口连接MySQL；
 - `-e MYSQL_ROOT_PASSWORD=password`：表示传入一个环境变量，作为root的口令，这里设置的口令是`password`，不输入此项则会自动生成一个口令，需要查看日志才能知道口令；
-- `-v /Users/liaoxuefeng/mysql-data:/var/lib/mysql`：表示将本地目录映射到容器目录`/var/lib/mysql`作为MySQL数据库存放的位置，需要将`/Users/liaoxuefeng/mysql-data`改为你的电脑上的实际目录；
+- `-v /Users/youkechuang/mysql-data:/var/lib/mysql`：表示将本地目录映射到容器目录`/var/lib/mysql`作为MySQL数据库存放的位置，需要将`/Users/youkechuang/mysql-data`改为你的电脑上的实际目录；
 - `mysql`：最后一个参数是Docker镜像的名称。
 
 可以在Docker Desktop的管理窗口中选择`Containers`，看到正在运行的MySQL：

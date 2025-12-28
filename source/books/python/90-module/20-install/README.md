@@ -35,7 +35,7 @@ pip install Pillow
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python                          │
+│PS C:\Users\youkechuang> python                          │
 │Python 3.13.3 |Anaconda, Inc.| ... on win32              │
 │Type "help", ... for more information.                   │
 │>>> import numpy                                         │

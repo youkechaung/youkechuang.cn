@@ -1,6 +1,6 @@
 # CC BY-NC-SA 4.0 License
 
-[尤科闯的官方网站](http://youkechuang.cn)所有内容由[尤科闯](http://youkechuang.cn)创作，并以CC BY-NC-SA 4.0协议发布在[GitHub](https://github.com/youkechaung/liaoxuefeng.com)。
+[尤科闯的官方网站](http://youkechuang.cn)所有内容由[尤科闯](http://youkechuang.cn)创作，并以CC BY-NC-SA 4.0协议发布在[GitHub](https://github.com/youkechaung/youkechuang.cn)。
 
 <svg width="150px" height="30px" viewBox="0 0 150 30" xmlns="http://www.w3.org/2000/svg">
     <path xmlns="http://www.w3.org/2000/svg"

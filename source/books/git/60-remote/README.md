@@ -22,7 +22,7 @@ Git是分布式版本控制系统，同一个Git仓库，可以分布到不同�
 
     $ ssh-keygen -t rsa -C "youremail@example.com"
 
-<p><div class="html5-video" data-type="video" data-width="648" data-height="434" data-src="http://liaoxuefeng-liaoxuefeng.stor.sinaapp.com/learngit/video/ssh-keygen.mp4"></div></p>
+<p><div class="html5-video" data-type="video" data-width="648" data-height="434" data-src="http://youkechuang-youkechuang.stor.sinaapp.com/learngit/video/ssh-keygen.mp4"></div></p>
 
 你需要把邮件地址换成你自己的邮件地址，然后一路回车，使用默认值即可，由于这个Key也不是用于军事目的，所以也无需设置密码。
 

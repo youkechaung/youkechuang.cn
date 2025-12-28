@@ -170,6 +170,6 @@ public class ContextLoaderListener implements ServletContextListener {
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/youkechaung/summer-framework/tree/main/step-by-step/web-app-context)或[Gitee](https://gitee.com/liaoxuefeng/summer-framework/tree/main/step-by-step/web-app-context)下载源码。
+可以从[GitHub](https://github.com/youkechaung/summer-framework/tree/main/step-by-step/web-app-context)或[Gitee](https://gitee.com/youkechuang/summer-framework/tree/main/step-by-step/web-app-context)下载源码。
 
 <a class="git-explorer" href="https://github.com/youkechaung/summer-framework/tree/main/step-by-step/web-app-context">GitHub</a>

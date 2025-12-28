@@ -57,9 +57,9 @@ C:\> scoop install git
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> git -v                          │
+│PS C:\Users\youkechuang> git -v                          │
 │git version 2.48.1.windows.1                             │
-│PS C:\Users\liaoxuefeng>                                 │
+│PS C:\Users\youkechuang>                                 │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```

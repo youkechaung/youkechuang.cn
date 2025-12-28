@@ -20,4 +20,4 @@ Summer Framework设计目标如下：
 
 我们会一步一步实现各模块，并在此基础上开发完整的应用程序。
 
-本教程的所有源码均可从[GitHub](https://github.com/youkechaung/summer-framework)或[Gitee](https://gitee.com/liaoxuefeng/summer-framework)下载。
+本教程的所有源码均可从[GitHub](https://github.com/youkechaung/summer-framework)或[Gitee](https://gitee.com/youkechuang/summer-framework)下载。

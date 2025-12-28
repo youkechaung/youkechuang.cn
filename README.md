@@ -1,4 +1,4 @@
-# liaoxuefeng.com
+# youkechuang.com
 
 Source code and markdown documents of [http://youkechuang.cn](http://youkechuang.cn).
 
@@ -8,4 +8,4 @@ PDF can be downloaded from [https://dl.lxf.sh/pdf/](https://dl.lxf.sh/pdf/).
 
 ## Download
 
-You can download all markdown documents and generated static web site from [Release](https://github.com/youkechaung/liaoxuefeng.com/releases).
+You can download all markdown documents and generated static web site from [Release](https://github.com/youkechaung/youkechuang.com/releases).

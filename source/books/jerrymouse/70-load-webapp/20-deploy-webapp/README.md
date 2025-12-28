@@ -21,7 +21,7 @@ $ java -jar /path/to/jerrymouse-1.0.0.jar -w /path/to/hello-webapp-1.0.war
 确保路径正确，就可以看到如下输出：
 
 ```plain
-10:20:07.586 [main] INFO  com.itranswarp.jerrymouse.Start -- extract '/Users/liaoxuefeng/Git/Github/jerrymouse/step-by-step/hello-webapp/target/hello-webapp-1.0.war' to '/var/folders/np/n5bzqjhs2l521tn0bkcqvzcc0000gn/T/_jm_10421889768839940273'
+10:20:07.586 [main] INFO  com.itranswarp.jerrymouse.Start -- extract '/Users/youkechuang/Git/Github/jerrymouse/step-by-step/hello-webapp/target/hello-webapp-1.0.war' to '/var/folders/np/n5bzqjhs2l521tn0bkcqvzcc0000gn/T/_jm_10421889768839940273'
 10:20:07.619 [main] INFO  com.itranswarp.jerrymouse.Start -- set web root: /var/folders/np/n5bzqjhs2l521tn0bkcqvzcc0000gn/T/_jm_10421889768839940273
 10:20:07.943 [main] INFO  c.i.j.classloader.WebAppClassLoader -- set classes path: /var/folders/np/n5bzqjhs2l521tn0bkcqvzcc0000gn/T/_jm_10421889768839940273/WEB-INF/classes
 10:20:07.944 [main] INFO  c.i.j.classloader.WebAppClassLoader -- set jar path: /var/folders/np/n5bzqjhs2l521tn0bkcqvzcc0000gn/T/_jm_10421889768839940273/WEB-INF/lib/logback-classic-1.4.6.jar
@@ -97,7 +97,7 @@ $ java -jar /path/to/jerrymouse-1.0.0.jar -w /path/to/hello-webapp-1.0.war
 
 ### 参考源码
 
-可以从[GitHub](https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/hello-webapp)或[Gitee](https://gitee.com/liaoxuefeng/jerrymouse/tree/main/step-by-step/hello-webapp)下载源码。
+可以从[GitHub](https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/hello-webapp)或[Gitee](https://gitee.com/youkechuang/jerrymouse/tree/main/step-by-step/hello-webapp)下载源码。
 
 <a class="git-explorer" href="https://github.com/youkechaung/jerrymouse/tree/main/step-by-step/hello-webapp">GitHub</a>
 

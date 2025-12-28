@@ -38,7 +38,7 @@ Gitee 企业版专属购买通道
 然后，我们在本地库上使用命令`git remote add`把它和Gitee的远程库关联：
 
 ```plain
-$ git remote add origin git@gitee.com:liaoxuefeng/learngit.git
+$ git remote add origin git@gitee.com:youkechuang/learngit.git
 ```
 
 之后，就可以正常地用`git push`和`git pull`推送了！
@@ -46,7 +46,7 @@ $ git remote add origin git@gitee.com:liaoxuefeng/learngit.git
 如果在使用命令`git remote add`时报错：
 
 ```plain
-git remote add origin git@gitee.com:liaoxuefeng/learngit.git
+git remote add origin git@gitee.com:youkechuang/learngit.git
 fatal: remote origin already exists.
 ```
 
@@ -69,15 +69,15 @@ git remote rm origin
 再关联Gitee的远程库（注意路径中需要填写正确的用户名）：
 
 ```plain
-git remote add origin git@gitee.com:liaoxuefeng/learngit.git
+git remote add origin git@gitee.com:youkechuang/learngit.git
 ```
 
 此时，我们再查看远程库信息：
 
 ```plain
 git remote -v
-origin	git@gitee.com:liaoxuefeng/learngit.git (fetch)
-origin	git@gitee.com:liaoxuefeng/learngit.git (push)
+origin	git@gitee.com:youkechuang/learngit.git (fetch)
+origin	git@gitee.com:youkechuang/learngit.git (push)
 ```
 
 现在可以看到，origin已经被关联到Gitee的远程库了。通过`git push`命令就可以把本地库推送到Gitee上。
@@ -105,7 +105,7 @@ git remote add github git@github.com:michaelliao/learngit.git
 接着，再关联Gitee的远程库：
 
 ```plain
-git remote add gitee git@gitee.com:liaoxuefeng/learngit.git
+git remote add gitee git@gitee.com:youkechuang/learngit.git
 ```
 
 同样注意，远程库的名称叫`gitee`，不叫`origin`。
@@ -114,8 +114,8 @@ git remote add gitee git@gitee.com:liaoxuefeng/learngit.git
 
 ```plain
 git remote -v
-gitee	git@gitee.com:liaoxuefeng/learngit.git (fetch)
-gitee	git@gitee.com:liaoxuefeng/learngit.git (push)
+gitee	git@gitee.com:youkechuang/learngit.git (fetch)
+gitee	git@gitee.com:youkechuang/learngit.git (push)
 github	git@github.com:michaelliao/learngit.git (fetch)
 github	git@github.com:michaelliao/learngit.git (push)
 ```
@@ -147,4 +147,4 @@ git push gitee master
     └─────────────┘
 ```
 
-Gitee也同样提供了Pull request功能，可以让其他小伙伴参与到开源项目中来。你可以通过Fork我的仓库：[https://gitee.com/liaoxuefeng/learngit](https://gitee.com/liaoxuefeng/learngit?utm_source=blog_lxf)，创建一个`your-gitee-id.txt`的文本文件，写点自己学习Git的心得，然后推送一个pull request给我，这个仓库会在Gitee和GitHub做双向同步。
+Gitee也同样提供了Pull request功能，可以让其他小伙伴参与到开源项目中来。你可以通过Fork我的仓库：[https://gitee.com/youkechuang/learngit](https://gitee.com/youkechuang/learngit?utm_source=blog_lxf)，创建一个`your-gitee-id.txt`的文本文件，写点自己学习Git的心得，然后推送一个pull request给我，这个仓库会在Gitee和GitHub做双向同步。

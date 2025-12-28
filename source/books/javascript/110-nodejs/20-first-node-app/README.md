@@ -57,10 +57,10 @@ Error: Cannot find module 'C:\Workspace\hello.js'
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> node hello.js                   │
+│PS C:\Users\youkechuang> node hello.js                   │
 │Hello, world.                                            │
 │                                                         │
-│PS C:\Users\liaoxuefeng>                                 │
+│PS C:\Users\youkechuang>                                 │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -76,7 +76,7 @@ Error: Cannot find module 'C:\Workspace\hello.js'
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> node                            │
+│PS C:\Users\youkechuang> node                            │
 │Welcome to Node.js v22.x.x.                              │
 │>                                                        │
 │                                                         │

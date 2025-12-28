@@ -164,7 +164,7 @@ s.close()
 ┌────────────────────────────────────────────────────────┐
 │Windows PowerShell                                - □ x │
 ├────────────────────────────────────────────────────────┤
-│PS C:\Users\liaoxuefeng> python echo_server.py          │
+│PS C:\Users\youkechuang> python echo_server.py          │
 │Waiting for connection...                               │
 │Accept new connection from 127.0.0.1:64398...           │
 │Connection from 127.0.0.1:64398 closed.                 │
@@ -172,12 +172,12 @@ s.close()
 │       ┌────────────────────────────────────────────────┴───────┐
 │       │Windows PowerShell                                - □ x │
 │       ├────────────────────────────────────────────────────────┤
-└───────┤PS C:\Users\liaoxuefeng> python echo_client.py          │
+└───────┤PS C:\Users\youkechuang> python echo_client.py          │
         │Welcome!                                                │
         │Hello, Michael!                                         │
         │Hello, Tracy!                                           │
         │Hello, Sarah!                                           │
-        │PS C:\Users\liaoxuefeng>                                │
+        │PS C:\Users\youkechuang>                                │
         │                                                        │
         │                                                        │
         └────────────────────────────────────────────────────────┘

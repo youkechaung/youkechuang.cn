@@ -19,6 +19,6 @@ jobs:
           PUSH_SSH_KEY: ${{ secrets.PUSH_SSH_KEY }}
         with:
           remote_repository: |
-            git@gitlab.com:cryptomichael/liaoxuefeng.com.git
-            git@gitee.com:liaoxuefeng/liaoxuefeng.com.git
+            git@gitlab.com:cryptomichael/youkechuang.cn.git
+            git@gitee.com:youkechuang/youkechuang.cn.git
           push_options: "--force"

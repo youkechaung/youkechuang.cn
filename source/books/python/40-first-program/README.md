@@ -13,7 +13,7 @@
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng>                                 │
+│PS C:\Users\youkechuang>                                 │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -29,7 +29,7 @@
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python                          │
+│PS C:\Users\youkechuang> python                          │
 │Python 3.x ... on win32                                  │
 │Type "help", ... for more information.                   │
 │>>> _                                                    │
@@ -46,12 +46,12 @@
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python                          │
+│PS C:\Users\youkechuang> python                          │
 │Python 3.x ... on win32                                  │
 │Type "help", ... for more information.                   │
 │>>> exit()                                               │
 │                                                         │
-│PS C:\Users\liaoxuefeng>                                 │
+│PS C:\Users\youkechuang>                                 │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -98,7 +98,7 @@ hello, world
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> python hello.py                 │
+│PS C:\Users\youkechuang> python hello.py                 │
 │python: can't open file 'hello.py': [Errno 2] No such    │
 │file or directory                                        │
 │                                                         │
@@ -114,8 +114,8 @@ hello, world
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
 │                                                         │
-│PS C:\Users\liaoxuefeng> cd work                         │
-│PS C:\Users\liaoxuefengwork> python hello.py             │
+│PS C:\Users\youkechuang> cd work                         │
+│PS C:\Users\youkechuangwork> python hello.py             │
 │Hello, world!                                            │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -131,7 +131,7 @@ hello, world
 ├─────────────────────────────────────────────────────────┤
 │Windows PowerShell                                       │
 │Copyright (C) Microsoft Corporation. All rights reserved.│
-│PS C:\Users\liaoxuefeng> D:                              │
+│PS C:\Users\youkechuang> D:                              │
 │PS D:\> cd work                                          │
 │PS D:\work>                                              │
 │                                                         │

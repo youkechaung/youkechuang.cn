@@ -1,8 +1,8 @@
 site:
   domain: http://youkechuang.cn
   title: 尤科闯的官方网站
-  description: 尤科闯的官方网站 (liaoxuefeng.com) 研究互联网产品和技术，提供原创中文精品教程
-  keywords: 尤科闯, liaoxuefeng, git, gitsite, javascript, node, jquery, python, java, spring, sql, database, linux, operating system, os, cpu, verilog, risc-v, bitcoin, ethereum, ai, 教程, 软件, 编程, 开发, 运维, 云计算, 网络, 互联网, 比特币, 以太坊, 操作系统, 智能合约, 数字货币
+  description: 尤科闯的官方网站 (youkechuang.cn) 研究互联网产品和技术，提供原创中文精品教程
+  keywords: 尤科闯, youkechuang, git, gitsite, javascript, node, jquery, python, java, spring, sql, database, linux, operating system, os, cpu, verilog, risc-v, bitcoin, ethereum, ai, 教程, 软件, 编程, 开发, 运维, 云计算, 网络, 互联网, 比特币, 以太坊, 操作系统, 智能合约, 数字货币
   theme: default
   language: zh-CN
   # set the /<rootPath> pathname under which your site is served
@@ -20,7 +20,7 @@ site:
     - title: 博客
       uri: /blogs/all/index.html
   git:
-    base-url: https://github.com/youkechaung/liaoxuefeng.com/blob/main/source
+    base-url: https://github.com/youkechaung/youkechuang.cn/blob/main/source
   contact:
     name: George You
     github: https://github.com/youkechaung/youkechuang.cn
