@@ -5,29 +5,29 @@
 <div class="home-book-list">
     <!-- java -->
     <div class="home-book-list-item">
-        <a href="/books/whoami/index.html" class="home-book-list-image">
+        <a href="/books/onethird/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/ykc_coffee.jpg" /> 
             </div>
             <div class="home-book-list-title">
-                我的故事
+                我的1/3人生
             </div>
             <div class="home-book-list-desc">
-                    个人介绍,我的人生经历
+                   我的人生经历
             </div>
         </a>
     </div>
     <!-- python -->
     <div class="home-book-list-item">
-        <a href="/books/python/index.html" class="home-book-list-image">
+        <a href="/blogs/all/2026-02-08-fourhourAweek/index.html" class="home-book-list-image">
             <div>
                 <img src="/static/cover/flower_sea.jpg" />
             </div>
             <div class="home-book-list-title">
-                Python教程
+                我的博客
             </div>
             <div class="home-book-list-desc">
-                小白的Python新手教程，基于最新Python 3版本！
+                总结最近的一切
             </div>
         </a>
     </div>
