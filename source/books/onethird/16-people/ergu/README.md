@@ -1,3 +1,3 @@
-# 二姑
+# Second aunt
 
-二姑是高中毕业，是同辈里学问最高的，也是家族大事的决策者。据说她当年学习成绩非常优秀，初中跳级，也考上了高中，但是当年因为家中经济拮据，加上父母年迈，她自愿退学。后来爸爸上初中，初升高至少考了两次也没考上，这也是重男轻女，把机会都留给了男孩。小姑非常聪明，为了把上学的机会留给爸爸，也辍学了。现在回想起来，因为重男轻女的思想，影响了两个姑姑的发展，也影响了家族的发展。
+My second aunt graduated from high school and was the most educated among her generation, as well as a decision-maker in important family matters. It's said she was an outstanding student, skipping grades in junior high and gaining admission to high school, but due to financial difficulties and her parents' advanced age, she voluntarily dropped out. Later, my father went to junior high but failed the high school entrance exam at least twice, a consequence of patriarchal favoritism that prioritized boys. My youngest aunt was very intelligent and also dropped out of school to give my father the opportunity to study. Looking back, this patriarchal mindset negatively impacted the development of both aunts and the entire family.
