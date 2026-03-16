@@ -1,5 +1,13 @@
-# 学习英语
 
-一直以来，我都不知道自己有什么天赋，如果说有的话，英语应该算是有那么一点点吧。
+# Learning English
 
-背单词，音标学习很重要。初中英语满分120分，我第一次就考了107分，班级第一名。**最大的原因**肯定是我上课听讲非常认真，有一次早自习晨读课，英语老师刘婷来找我有点事情，走到座位旁边拍了一下我的肩膀，我猛地一惊，具体找我干什么我已经记不得了，但是她当众表扬了我，说我学习非常投入，过来拍我一下我惊的一哆嗦。**其次的原因是**我英语最开始的几节课学的比较好，最开始就是英语基础，最基础的音标，最基本的语法。可以说这些学会以后，相当于大楼已经搭建好了骨架，剩余的都是往里边填充水泥，做其他装修之内的事情了。
+I've never really known what my talents are, but if I had to pick one, I'd say I'm a little bit good at English.
+
+Memorizing vocabulary and learning phonetics are very important. In junior high, English was out of 120, and I scored 107 on my first try, ranking first in my class. The biggest reason was definitely that I paid close attention in class. Once, during morning self-study, my English teacher, Liu Ting, came to talk to me. She walked over to my seat and tapped me on the shoulder. I was startled. I don't remember exactly why she wanted to talk to me, but she praised me in front of everyone, saying I was very focused on my studies. The tap startled me. The **second reason** was that I did well in my first few English lessons. The beginning focused on the basics: phonetics and grammar. You could say that once you've mastered these, it's like the skeleton of a building has been erected; the rest is just filling in the concrete and doing the interior decoration.
+
+# HOW TO LEARN A CLASS IN ENGLISH
+
+Recently,  I need to learn technical skills abount llm.  And the classical lesson is cs336 that is from stanford university.
+At first,  I watch the video with eng-chinese capital text. But its very slow.
+
+After I watch ten videos, i find a effective way that  i  focus on the slides and try not to watch the capital. Amazingly, i can understand the content delivered by teachers.

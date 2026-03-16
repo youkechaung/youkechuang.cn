@@ -1,3 +1,3 @@
-# 出生
+# BORN
 
-我是计划生育的漏网之鱼,母亲躲藏到湖北大姨家，最终我顺利出生。 我现在还有一些侥幸心理。
+I was a survivor of the one-child policy; my mother hid at my aunt's house in Hubei, and I was eventually born safely. I still have some lingering hope.

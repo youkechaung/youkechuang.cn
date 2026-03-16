@@ -1,5 +1,5 @@
-# 怎么学会编程
+# How to Learn Programming
 
-其实我一开始没想要学习编程，我也不喜欢程序员这个称呼。在中国，程序员应该可以被定义为蓝领工人，程序员总会让人想起猝死、加班熬夜、996等。
+Actually, I didn't initially want to learn programming, and I don't like the term "programmer." In China, programmers are often defined as blue-collar workers, and the term evokes images of sudden death, overtime work, and the 996 work schedule.
 
-为什么我要学习编程？
+Why did I want to learn programming?

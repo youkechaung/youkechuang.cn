@@ -1,24 +1,27 @@
-# 求学
+# School Time
 
-### 学前班
+### Kidgarden
 
-学前班1年。
+wait!!!
 
-### 小学
+### Primary School
 
-小学2年级之前，我应该是班级倒数的差生，当时比较不懂事，家里也不怎么管。
-2年级结束的暑假，数学老师李秀成到家里跟我爸商量让我留级，认为我是"潜力股"，留级后终点培养，忽悠我“以后可以拿奖状”，于是，我就开始读第二个二年级。
-老师确实“重点培养”了，比如背诵语文课文，连标点符号都要背。还给我封了个“官”，班长+纪律委员，我每天监督别人学习，自己有一种心理是，那肯定是我自己得都学会，要不然监督别人就不好意思，再加上这确实是第二个二年级，我期末的时候，考了全班第一名，从此我的小学各科考试都是第一名或者第二名，考试第二名我就会很羞愧。当然我也是升国旗主旗手，少先队员大队长。
+Before second grade, I was probably one of the worst students in my class. I was quite immature back then, and my family didn't really supervise me.
 
-### 中学
+The summer after second grade ended, my math teacher, Li Xiucheng, came to my house to discuss having me repeat the grade. He thought I was a "promising student" and would receive extra training after repeating the grade, even telling me I could "get awards later." So, I started second grade again.
 
-就这样我进入了初中。初中老师非常负责，我已经变成了学校明星级别的人物，学习成绩名列前茅。
-不太意外地，我进入了全市最好的高中，在这里是我的噩梦，遇到了"贪官“班主任，再加上自己水土不服，成绩一直不太理想，后来高考进入北京物资学院。
+The teacher did indeed "focus on" me, for example, memorizing Chinese texts, even the punctuation marks. He even gave me an "official" title: class monitor and discipline committee member. I supervised others' studies every day, and I had this mentality that I had to learn everything myself first, otherwise I'd feel embarrassed supervising others. Plus, since it was indeed my second second grade, I got first place in the class at the end of the semester. From then on, I always got first or second place in all my elementary school exams; I felt ashamed if I came in second. Of course, I was also the flag bearer for raising the national flag and the captain of the Young Pioneers brigade.
 
-### 大学
+### Middle school
 
-无论如何我还是进入了北京的高校，我还是非常努力，一度也陷入了迷茫，于是我开始泡图书馆。在图书管里，我迷上了名人传记，想复制成功。
+And so I entered junior high school. The junior high teachers were very responsible, and I became a star student, consistently ranking at the top of my class.
 
-### 研究生
+Unsurprisingly, I entered the best high school in the city, which became my nightmare. I encountered a corrupt homeroom teacher, and coupled with my inability to adapt to the new environment, my grades were consistently poor. Later, I entered Beijing Wuzi University after the college entrance examination.
 
-读研之前我还想读个博士，但是研究生第一个月，我改变了想法。刚入学我就帮老师编写了两本书。在这之前我认为书籍是非常神圣的，但是经历过写书以后，我不仅觉得天下的书都是互相抄来抄去，并且我对学术也没有了兴趣。
+### College
+
+Regardless, I still got into a university in Beijing. I worked very hard, but I also felt lost for a time, so I started spending a lot of time in the library. In the library, I became fascinated with biographies of famous people, hoping to replicate their success.。
+
+### Post Graduate
+
+Before starting graduate school, I wanted to pursue a doctorate, but I changed my mind after my first month. I helped my professor write two books right after starting graduate school. Before that, I thought books were sacred, but after writing them, I not only felt that all books were just plagiarism, but I also lost interest in academia.

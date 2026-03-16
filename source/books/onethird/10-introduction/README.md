@@ -1,15 +1,19 @@
-# 前言
-写这本书，不是想吹牛自己有多么牛，其实更多地想创造一些价值，假如我明天死去，那么我还能给这个世界留下几片树叶。
-
-写这几行字的时候，我已经是一个丈夫，是一个爸爸，是一个儿子，是一个......。 我的身份很多，当然责任也很多。
+# PREFACE
 
 
-我想通过这本书来达到如下目的
-1. 记录我的求学生涯。对于寒门子弟，应该有很多借鉴意义。
-2. 记录我的工作经历。)对于正在构想未来职业规划的学子，对于正在职场打拼的好朋友，应该有一些帮助。
-3. 构建一个AI替身。 我想把自己的一切记录在这本书，然后输入给大模型，让大模型复制一个我。
+Writing this book isn't about boasting about my abilities; it's more about creating value. If I were to die tomorrow, I want to leave something behind for the world.
 
+As I write these lines, I am already a husband, a father, a son, and more… I have many identities, and of course, many responsibilities.
 
-我写这本书的原则：
-1.真实真诚。
-2.提供价值，减少废话。
+I hope to achieve the following through this book:
+
+To record my academic journey. This should offer valuable insights for students from underprivileged backgrounds.
+
+To record my work experience. This should be helpful for students planning their future careers and for friends already working.
+
+To build an AI avatar. I want to record everything about myself in this book, then input it into a large model to create a replica of myself.
+
+My principles for writing this book are: 
+
+1. Authenticity and sincerity.
+2.  Providing value and minimizing unnecessary details.

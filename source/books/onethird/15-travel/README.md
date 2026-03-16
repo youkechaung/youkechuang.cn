@@ -1,30 +1,22 @@
-# 旅行
 
-## 美国
+# Travel
 
-2025年1月份，我和老婆从首都机场坐上国航航班飞往洛杉矶国际机场。
+## USA
 
-旅行计划。之前做了很多旅行计划，本来只想去西海岸，主要在洛杉矶。但是洛杉矶有山火，为此我们改了计划，从洛杉矶->华盛顿->纽约->洛杉矶。
+In January 2025, my wife and I took an Air China flight from Beijing Capital International Airport to Los Angeles International Airport.
 
-一直以为美国是世界上科技等领域最发达的国家，所以非常好奇，美国究竟是什么样的。
+Travel Plans. We had made many travel plans beforehand, originally only wanting to go to the West Coast, mainly to Los Angeles. However, there were wildfires in Los Angeles, so we changed our plans: Los Angeles -> Washington D.C. -> New York -> Los Angeles.
 
+I always thought the United States was the most technologically advanced country in the world, so I was very curious about what it was really like.
 
-去看了一场NBA。目的地是  我在tickpick软件买了开拓者VS雄鹿的比赛。哈登是我想看的秋星，字母哥也是，小卡也是。我在后排坐着，山顶太高了，看着篮球场好小。
+I went to see an NBA game. My destination was... I bought tickets on the Tickpick app for the Trail Blazers vs. Bucks game. Harden was one of my favorite stars, as were Giannis Antetokounmpo and Kawhi Leonard. I sat in the back row; the hilltop was so high, the basketball court looked so small.
 
+## Singapore
 
-## 新加坡
+## Malaysia
 
+## Spain
 
-## 马来西亚
+## Suzhou
 
-
-## 西班牙
-
-
-
-
-
-## 苏州
-
-
-## 广州
+## Guangzhou

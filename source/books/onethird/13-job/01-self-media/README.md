@@ -1,7 +1,5 @@
-# 做自媒体
+# Creating Social Media
 
-做自媒体其实就是抖音、小红书这些。
+Creating social media content mainly involves platforms like Douyin and Xiaohongshu.
 
-最激动人心动当然是发了一个帖子有几十万的阅读量，并且有很多评论和点赞。 想到自己可以影响到这么多人，还是很有成就感的。但是有时候发完作品，只有个位数的浏览时，多少会有些沮丧。
-
-现在这个年代
+The most exciting and stimulating thing is, of course, seeing a post get hundreds of thousands of views, along with many comments and likes. The thought of influencing so many people is very fulfilling. However, sometimes when a post only gets a handful of views, it can be quite disheartening.
